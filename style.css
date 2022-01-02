@@ -1,6 +1,7 @@
 h1 {
   color: teal;
   font-size: 35px;
+  text-transform: uppercase;
 }
 
 p {
